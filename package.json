@@ -70,7 +70,7 @@
   },
   "rekit": {
     "devPort": 9096,
-    "studioPort": 9096,
+    "studioPort": 6076,
     "plugins": [],
     "css": "less"
   },
